@@ -1,0 +1,10 @@
+[
+    {
+        "title":"Buttons",
+        "navigate":"ButtonScreen"
+    },
+    {
+        "title":"Check Box",
+        "navigate":"ButtonScreen"
+    }
+]
